@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Filippo B"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Zürich"
+  bio              : "Just another boring geophysicist."
+  location         : "Zürich, Switzerland"
   email            :
   uri              :
   bitbucket        :
@@ -89,10 +89,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "filippo82"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "olgias"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -246,7 +246,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
